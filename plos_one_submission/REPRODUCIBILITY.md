@@ -27,6 +27,6 @@ This file summarizes the minimal reproducibility information for the PLOS ONE up
 
 ## Versioned links
 
-- Zenodo: https://doi.org/10.5281/zenodo.21694013
+- Zenodo: https://doi.org/10.5281/zenodo.21873862
 - GitHub: https://github.com/Jeerryyoung/SQRCD_EQF
 - OSF: https://osf.io/n6gjy/
