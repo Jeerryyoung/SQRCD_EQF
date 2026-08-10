@@ -1,0 +1,2 @@
+﻿n_formulae,spearman_rho,spearman_p,bootstrap_replicates_requested,bootstrap_replicates_valid,bootstrap_q025,bootstrap_q975,lofo_rho_min,lofo_rho_max,seed,interpretive_boundary
+15,-0.9857142857142854,1.92909487460678e-11,10000,10000,-1.0,-0.9116022099447515,-0.9868131868131869,-0.9824175824175824,20260802,Metric-behavior check under union coverage; not an independent biological association.

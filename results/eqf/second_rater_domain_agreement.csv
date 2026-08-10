@@ -1,0 +1,17 @@
+﻿domain,analysis,n,agreement_n,raw_agreement,cohen_kappa_unweighted
+Identity,four_state,150,150,1.0,1.0
+Identity,collapsed_unavailable,150,150,1.0,1.0
+Preparation chemistry,four_state,105,105,1.0,1.0
+Preparation chemistry,collapsed_unavailable,105,105,1.0,1.0
+Chemical reconstruction,four_state,90,90,1.0,1.0
+Chemical reconstruction,collapsed_unavailable,90,90,1.0,1.0
+Target provenance,four_state,120,120,1.0,1.0
+Target provenance,collapsed_unavailable,120,120,1.0,1.0
+Human context,four_state,90,90,1.0,1.0
+Human context,collapsed_unavailable,90,90,1.0,1.0
+Genetics,four_state,75,75,1.0,
+Genetics,collapsed_unavailable,75,75,1.0,
+Perturbation,four_state,60,59,0.9833333333333333,0.4957983193277311
+Perturbation,collapsed_unavailable,60,59,0.9833333333333333,0.495798319327731
+Structural eligibility,four_state,60,0,0.0,0.0
+Structural eligibility,collapsed_unavailable,60,60,1.0,

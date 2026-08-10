@@ -1,0 +1,9 @@
+parameter,value,unit,status,interpretation
+crude_drug_total,361,g per daily prescription,corrected_against_locked_per-herb_sum,Arithmetic sum of the 16 locked crude-drug masses; the earlier 371-g entry was retained only in the dated rater dossier
+decoction_duration,15,min,author-confirmed,Duration for decocting one daily prescription
+filtered_decoction_volume,600,mL per daily prescription,author-confirmed,Total filtered liquid obtained after decoction
+volume_per_administration,200,mL,author-confirmed,One third of the daily filtered decoction
+administration_frequency,3,times per day,author-confirmed,Total administered volume equals 600 mL per day
+administration_timing,after meals,,author-confirmed,Postprandial administration
+administration_temperature,warm,,author-confirmed,Decoction taken warm
+extraction_yield,not available,,not_estimable,Constituent concentration cannot be derived from crude-drug mass and final liquid volume alone

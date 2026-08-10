@@ -1,0 +1,61 @@
+﻿formula_id,formula_name_en,formula_size,entity_representation,status,compound_nodes,compound_fdi,multiherb_fraction,note
+F001,Si-Wu-Tang,4,ETCM_native_record_id,estimated,826.0,0.477930790960452,0.10411622276029056,ETCM-native identifiers retained
+F001,Si-Wu-Tang,4,normalized_compound_name,estimated,803.0,0.47755811540058113,0.10585305105853052,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F001,Si-Wu-Tang,4,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F001,Si-Wu-Tang,4,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F002,Suan-Zao-Ren-Tang,5,ETCM_native_record_id,estimated,1354.0,0.4929837518463811,0.03249630723781388,ETCM-native identifiers retained
+F002,Suan-Zao-Ren-Tang,5,normalized_compound_name,estimated,1332.0,0.49286786786786785,0.03303303303303303,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F002,Suan-Zao-Ren-Tang,5,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F002,Suan-Zao-Ren-Tang,5,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F003,Gui-Zhi-Tang,5,ETCM_native_record_id,estimated,1093.0,0.4950960658737421,0.021957913998170174,ETCM-native identifiers retained
+F003,Gui-Zhi-Tang,5,normalized_compound_name,estimated,1069.0,0.4949859681945744,0.02245088868101029,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F003,Gui-Zhi-Tang,5,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F003,Gui-Zhi-Tang,5,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F004,Wen-Dan-Tang,8,ETCM_native_record_id,estimated,1173.0,0.49496483375959077,0.026427962489343565,ETCM-native identifiers retained
+F004,Wen-Dan-Tang,8,normalized_compound_name,estimated,1152.0,0.494873046875,0.026909722222222224,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F004,Wen-Dan-Tang,8,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F004,Wen-Dan-Tang,8,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F005,Shen-Ling-Bai-Zhu-San,11,ETCM_native_record_id,estimated,2022.0,0.4925006743997842,0.037091988130563795,ETCM-native identifiers retained
+F005,Shen-Ling-Bai-Zhu-San,11,normalized_compound_name,estimated,1966.0,0.49237954314251364,0.03763987792472025,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F005,Shen-Ling-Bai-Zhu-San,11,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F005,Shen-Ling-Bai-Zhu-San,11,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F007,Xue-Fu-Zhu-Yu-Tang,11,ETCM_native_record_id,estimated,2519.0,0.48526471543541805,0.0702659785629218,ETCM-native identifiers retained
+F007,Xue-Fu-Zhu-Yu-Tang,11,normalized_compound_name,estimated,2453.0,0.4850906126079384,0.07093355075417855,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F007,Xue-Fu-Zhu-Yu-Tang,11,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F007,Xue-Fu-Zhu-Yu-Tang,11,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F009,Xiao-Chai-Hu-Tang,7,ETCM_native_record_id,estimated,1654.0,0.4906834801635285,0.044740024183796856,ETCM-native identifiers retained
+F009,Xiao-Chai-Hu-Tang,7,normalized_compound_name,estimated,1626.0,0.4902887600304573,0.046740467404674045,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F009,Xiao-Chai-Hu-Tang,7,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F009,Xiao-Chai-Hu-Tang,7,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F010,Bu-Zhong-Yi-Qi-Tang,10,ETCM_native_record_id,estimated,2582.0,0.49024399690162657,0.045701006971340045,ETCM-native identifiers retained
+F010,Bu-Zhong-Yi-Qi-Tang,10,normalized_compound_name,estimated,2522.0,0.4900118953211736,0.04639175257731959,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F010,Bu-Zhong-Yi-Qi-Tang,10,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F010,Bu-Zhong-Yi-Qi-Tang,10,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F012,Du-Huo-Ji-Sheng-Tang,15,ETCM_native_record_id,estimated,2666.0,0.4822266822116784,0.08064516129032258,ETCM-native identifiers retained
+F012,Du-Huo-Ji-Sheng-Tang,15,normalized_compound_name,estimated,2597.0,0.48184345240178894,0.08240277242972661,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F012,Du-Huo-Ji-Sheng-Tang,15,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F012,Du-Huo-Ji-Sheng-Tang,15,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F013,Liu-Wei-Di-Huang-Wan,6,ETCM_native_record_id,estimated,915.0,0.49313600485731635,0.033879781420765025,ETCM-native identifiers retained
+F013,Liu-Wei-Di-Huang-Wan,6,normalized_compound_name,estimated,891.0,0.49295111609926423,0.03479236812570146,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F013,Liu-Wei-Di-Huang-Wan,6,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F013,Liu-Wei-Di-Huang-Wan,6,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F015,Bao-He-Wan,7,ETCM_native_record_id,estimated,822.0,0.4961765728189085,0.019464720194647202,ETCM-native identifiers retained
+F015,Bao-He-Wan,7,normalized_compound_name,estimated,791.0,0.49602672927578106,0.020227560050568902,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F015,Bao-He-Wan,7,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F015,Bao-He-Wan,7,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F018,Yi-Guan-Jian,6,ETCM_native_record_id,estimated,728.0,0.49484508547008543,0.02197802197802198,ETCM-native identifiers retained
+F018,Yi-Guan-Jian,6,normalized_compound_name,estimated,699.0,0.49463121920203457,0.022889842632331903,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F018,Yi-Guan-Jian,6,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F018,Yi-Guan-Jian,6,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F019,Tian-Wang-Bu-Xin-Dan,13,ETCM_native_record_id,estimated,1848.0,0.49390054390054394,0.032467532467532464,ETCM-native identifiers retained
+F019,Tian-Wang-Bu-Xin-Dan,13,normalized_compound_name,estimated,1771.0,0.49368602412080675,0.033314511575381144,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F019,Tian-Wang-Bu-Xin-Dan,13,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F019,Tian-Wang-Bu-Xin-Dan,13,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F020,Yang-Xin-Tang,14,ETCM_native_record_id,estimated,2673.0,0.48267889273180276,0.0819304152637486,ETCM-native identifiers retained
+F020,Yang-Xin-Tang,14,normalized_compound_name,estimated,2601.0,0.48230239808341635,0.08342945021145713,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F020,Yang-Xin-Tang,14,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F020,Yang-Xin-Tang,14,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F000,SQRCD,16,ETCM_native_record_id,estimated,2172.0,0.48751425063579756,0.06123388581952118,ETCM-native identifiers retained
+F000,SQRCD,16,normalized_compound_name,estimated,2106.0,0.48699683161488716,0.06362773029439696,"Unicode, case, whitespace and punctuation normalization of ETCM compound labels; no salt or stereochemistry collapse"
+F000,SQRCD,16,PubChem_CID,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.
+F000,SQRCD,16,parent_InChIKey,not estimable,,,,Uniform identifier coverage is absent from the retained ETCM external-benchmark export; no cross-formula imputation was performed.

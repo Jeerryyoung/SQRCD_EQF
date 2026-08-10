@@ -1,0 +1,22 @@
+retrieval_date: 2026-08-01
+primary_formula_source:
+  name: Malaysia Ministry of Health T&CM Formulary
+  version: "1.0"
+  url: https://hq.moh.gov.my/tcm/en/index.php/gp-formulary
+secondary_formula_source:
+  name: HERB
+  version: "2.0"
+  formula_download: http://47.92.70.12/static/download_data/V2/HERB_formula_info_v2.txt
+topology_source:
+  name: ETCM
+  version: "2.0"
+  api_base: http://www.tcmip.cn:18124
+  database_profile: https://ngdc.cncb.ac.cn/databasecommons/database/id/6146
+identity_rules:
+  minimum_herb_count: 4
+  maximum_herb_count: 25
+  minimum_cross_source_jaccard: 0.80
+  minimum_herb_mapping_rate: 0.80
+  animal_and_mineral_excluded: true
+  unresolved_same_name_versions_excluded: true
+benchmark_scope: harmonized topology modules only; not complete eight-gate EQF validation

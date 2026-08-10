@@ -1,0 +1,2 @@
+"dataset","n","n_STC","n_NP","genes_tested","full_FDR05","full_FDR05_abs_logFC1","common_BCV","permutation_allocations","permutation_upper_tail_p_FDR05","control_design","EQF_use"
+"GSE245885",10,5,5,20303,11766,6619,0.339654009193546,252,0.0118577075098814,"non-constipated tissue obtained in a colon-cancer surgery context; disease status is confounded with clinical sampling context","low-confidence contextual dataset; not confirmatory"

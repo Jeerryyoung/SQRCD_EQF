@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.tmp
+*.bak
+*.log
+Date/
+07_manuscript/
+raw/
+render*/
+*second_rater*workbook*.xlsx
+*blind_dossier*.xlsx
+*blind_dossier*.pdf

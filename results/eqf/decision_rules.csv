@@ -1,0 +1,9 @@
+﻿gate,required_input,qualification_rule,state_if_missing,downstream_action
+Identity lock,"Exact membership, species, processing and dose",All fields resolved,Stop reconstruction,Proceed to chemistry
+Preparation chemistry,Regimen plus preparation-matched analytical chemistry,Measured constituents with traceable identifiers,Mark partial or NE,Restrict target inputs to measured chemistry when available
+Target evidence,"Assay type, target identity, organism, endpoint and units",Direct quantitative or traceable functional evidence,Keep predicted/curated states separate,No mechanistic promotion from degree alone
+Human context,"Phenotype-, tissue- and unit-matched human data",Reproducible disease context,Context only,Do not call disease expression a drug response
+Genetics,GWAS/QTL accession and SNP-level/regional data,Harmonised MR plus sensitivity and colocalization,Not estimable,Audit only
+Perturbation,Formula- or mixture-specific intervention signature,Directionally reproducible reversal,Not estimable,No formula ranking
+Machine learning,Independent labelled formulas and external or grouped validation,Leakage-controlled discrimination above permutation null,Not estimable,Do not report AUC
+Structure,Qualified compound-protein pair,All upstream gates passed,Stopped,No docking or MD

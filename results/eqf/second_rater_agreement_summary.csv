@@ -1,0 +1,10 @@
+﻿analysis,metric,value
+four_state,n,750.0
+four_state,agreement_n,689.0
+four_state,raw_agreement,0.9186666666666666
+four_state,cohen_kappa_unweighted,0.8465748463233297
+collapsed_unavailable,n,750.0
+collapsed_unavailable,agreement_n,749.0
+collapsed_unavailable,raw_agreement,0.9986666666666667
+collapsed_unavailable,cohen_kappa_unweighted,0.997197843460327
+four_state_ordered_sensitivity,cohen_kappa_linear_weighted,0.9074568536543923

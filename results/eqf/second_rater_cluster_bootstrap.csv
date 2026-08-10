@@ -1,0 +1,5 @@
+﻿analysis,metric,replicates,estimate,cluster_bootstrap_q025,cluster_bootstrap_q975,seed
+four_state,raw_agreement,2000,0.9186666666666666,0.916,0.92,20260802
+four_state,cohen_kappa_unweighted,2000,0.8465748463233297,0.8435054773082942,0.8508565097582454,20260802
+collapsed_unavailable,raw_agreement,2000,0.9986666666666667,0.996,1.0,20260802
+collapsed_unavailable,cohen_kappa_unweighted,2000,0.997197843460327,0.9921926235907685,1.0,20260802

@@ -1,0 +1,7 @@
+﻿evidence_tier,relation_rows,unique_herb_gene_edges,unique_compounds,unique_genes,target_FDI,multiherb_target_fraction
+all_disease_supported,458,368,80,139,0.3523798169256802,0.5035971223021583
+ChEMBL_direct_quantitative_le_10uM,152,138,14,29,0.2148070141065831,0.7931034482758621
+TCMSP_labelled_validated,306,245,74,121,0.3895378482284474,0.4297520661157025
+human_genetic_disease_support,2,2,1,1,0.32291666666666674,1.0
+curated_or_clinical_disease_support,69,56,26,17,0.3023809523809524,0.6470588235294118
+GeneCards_score_ge_3_support,452,362,78,136,0.3523786976911978,0.5

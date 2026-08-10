@@ -1,0 +1,35 @@
+input_name,etcm_name,reason
+FaBanXia,BanXia,processed form mapped to parent ETCM herb for topology benchmark
+BeiChaiHu,ChaiHu,regional name mapped to ETCM parent herb
+ZhiQiao,ZhiKe,ETCM synonym used for mature bitter orange
+KuXingRen,XingRen,ETCM simplified pinyin
+BaiDouKou,BaiDouKou,exact
+ZhiGanCao,GanCao,processing collapsed only in harmonized topology sensitivity
+ZhiHuangQi,HuangQi,processing collapsed only in harmonized topology sensitivity
+FuShen,FuLing,medicinal-part variant collapsed only in harmonized topology sensitivity
+ShuDiHuang,ShuDiHuang,exact
+ShengDiHuang,ShengDiHuang,exact
+ChuanNiuXi,NiuXi,ETCM parent entry
+GouQiZi,GouQiZi,exact
+ChuanQiong,ChuanXiong,orthographic pinyin synonym
+ShuDi,ShuDiHuang,abbreviated prepared Rehmannia name
+ChaoSuanZaoRen,SuanZaoRen,processing collapsed for identity concordance
+ShaoYao,BaiShao,white peony synonym in formula source
+FuChaoZhiShi,ZhiShi,processing collapsed for identity concordance
+JiangBanXia,BanXia,processing collapsed for identity concordance
+JiangZhuRu,ZhuRu,processing collapsed for identity concordance
+BaiBianDouChao,BaiBianDou,processing collapsed for identity concordance
+BaiZhuChao,BaiZhu,processing collapsed for identity concordance
+ChaoBaiZhu,BaiZhu,processing collapsed for identity concordance
+YiYiRenChao,YiYiRen,processing collapsed for identity concordance
+MaiMenDong,MaiDong,pharmacopoeial synonym
+DiHuang,ShengDiHuang,unprocessed Rehmannia synonym
+JuPi,ChenPi,citrus peel synonym
+YanDuZhong,DuZhong,processing collapsed for identity concordance
+Jiang,GanJiang,dried ginger abbreviation in formula source
+JiuDangGui,DangGui,processing collapsed for identity concordance
+TianDong,TianMenDong,pharmacopoeial synonym
+XuanCan,XuanShen,orthographic database synonym
+ZhiYuanZhi,YuanZhi,processing collapsed for identity concordance
+ChaoBanXiaQu,BanXia,fermentation processing collapsed for identity concordance
+ChaoWuWeiZi,WuWeiZi,processing collapsed for identity concordance

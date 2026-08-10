@@ -1,0 +1,16 @@
+﻿formula_id,herb_n,mapped_n,mapping_rate,included_mapping_gate
+F000,16,15,0.9375,True
+F001,4,4,1.0,True
+F002,5,5,1.0,True
+F003,5,5,1.0,True
+F004,8,8,1.0,True
+F005,11,11,1.0,True
+F007,11,11,1.0,True
+F009,7,7,1.0,True
+F010,10,10,1.0,True
+F012,15,15,1.0,True
+F013,6,6,1.0,True
+F015,7,6,0.8571428571428571,True
+F018,6,6,1.0,True
+F019,13,12,0.9230769230769231,True
+F020,14,14,1.0,True

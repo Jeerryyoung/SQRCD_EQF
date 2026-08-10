@@ -1,0 +1,27 @@
+{
+  "included_formulae_total": 15,
+  "external_formulae": 14,
+  "formula_size_range": [
+    4,
+    16
+  ],
+  "median_mapping_rate": 1.0,
+  "compound_fdi_range": [
+    0.477930790960452,
+    0.4961765728189085
+  ],
+  "target_fdi_range": [
+    0.37147800991279245,
+    0.46883116883116893
+  ],
+  "target_lower_than_compound_n": 15,
+  "paired_wilcoxon_statistic": 0.0,
+  "paired_wilcoxon_p": 6.103515625e-05,
+  "target_fdi_vs_redundancy_spearman_rho": -0.9857142857142854,
+  "target_fdi_vs_redundancy_p": 1.92909487460678e-11,
+  "sqrcd_harmonized_compound_fdi": 0.48751425063579756,
+  "sqrcd_harmonized_target_fdi": 0.39528347940989983,
+  "sqrcd_target_fdi_percentile_11_20": 0.5,
+  "complete_subformula_rows_both_node_types": 257410,
+  "interpretive_boundary": "topology modules externally benchmarked; complete eight-gate EQF not externally validated"
+}

@@ -1,0 +1,9 @@
+﻿layer,evidence_layer,state,readiness_points,state_observed,evidence,decision
+1,Formula identity,qualified,2,1,"16-herb identity, species, processing and doses locked",Proceed
+2,Preparation chemistry,partially_qualified,1,1,"15-min decoction, 600-mL filtrate and dosing locked; LC-MS and extraction yield absent",Retain chemistry uncertainty
+3,Constituent provenance,partially_qualified,1,1,2657 provisional compounds; structure and source dependence remain,Use sensitivity definitions
+4,Target evidence,partially_qualified,1,1,139 disease-supported annotated genes; quantitative binding incompletely ascertainable,Candidate coverage only
+5,Human disease context,partially_qualified,1,1,Human constipation-related tissues analysed; no SQRCD intervention arm,Contextual interpretation
+6,Human genetics,not_estimable,0,0,Reproducible SNP-level and regional inputs absent,Audit legacy claims only
+7,Formula perturbation,not_estimable,0,0,Preparation-matched intervention signature absent,Do not rank reversal
+8,Structural eligibility,stopped,0,1,No compound-protein pair survived all upstream gates,Stop docking and MD

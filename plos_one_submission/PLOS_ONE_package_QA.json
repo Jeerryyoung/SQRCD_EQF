@@ -1,0 +1,22 @@
+{
+  "generated_utc": "2026-08-10T12:43:36.407064+00:00",
+  "package_dir": "E:\\SQRCD便秘（7-26）\\SQRCD_scheme1_16herb_ablation_reversal_2026-07-29\\生信V9\\PLOS_ONE",
+  "plos_upload_files": [
+    "S1 File. Supplementary Information.pdf",
+    "S2 Data. Core machine-readable outputs.zip",
+    "S3 Data. De-identified paired assessor ratings.csv",
+    "S4 File. Data and code manifest.csv"
+  ],
+  "supplementary_pdf_bytes": 2747527,
+  "core_zip_bytes": 2191557,
+  "paired_assessor_rows": 750,
+  "subformula_rows": 65535,
+  "all_files_under_20mb": true,
+  "excluded_from_upload": [
+    "supplementary DOCX duplicate",
+    "raw third-party database exports",
+    "raw assessor workbooks",
+    "assessor initials, dates, signatures, and free-text notes",
+    "credentials and local browser/session data"
+  ]
+}
