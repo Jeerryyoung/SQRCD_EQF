@@ -5,7 +5,7 @@ This repository contains the public computational materials for the Evidence Qua
 ## Linked research records
 
 - Time-stamped registration: [OSF n6gjy](https://osf.io/n6gjy/)
-- Versioned research archive: [Zenodo DOI 10.5281/zenodo.21694013](https://doi.org/10.5281/zenodo.21694013)
+- Versioned research archive: [Zenodo DOI 10.5281/zenodo.21873862](https://doi.org/10.5281/zenodo.21873862)
 - Public code repository: [Jeerryyoung/SQRCD_EQF](https://github.com/Jeerryyoung/SQRCD_EQF)
 
 The three services have different roles. OSF preserves the registered analysis intent and amendments; GitHub provides version-controlled code and lightweight derived outputs; Zenodo archives the exact immutable release cited by DOI. A submission should cite a Git tag and the matching Zenodo version DOI, not a moving branch alone.

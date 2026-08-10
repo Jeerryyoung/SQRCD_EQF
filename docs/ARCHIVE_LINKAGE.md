@@ -4,7 +4,7 @@
 
 1. **OSF registration** (`https://osf.io/n6gjy/`) records the prespecified plan and dated amendments. A frozen registration should not be rewritten to match later results.
 2. **GitHub** (`https://github.com/Jeerryyoung/SQRCD_EQF`) is the living source-code repository.
-3. **Zenodo** (`https://doi.org/10.5281/zenodo.21694013`) is the DOI-bearing archive for immutable research snapshots.
+3. **Zenodo** (`https://doi.org/10.5281/zenodo.21873862`) is the DOI-bearing archive for immutable research snapshots.
 
 ## Required reciprocal links
 

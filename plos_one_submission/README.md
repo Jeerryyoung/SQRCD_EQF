@@ -1,6 +1,6 @@
 # PLOS ONE submission package for SQRCD_EQF
 
-Generated: 2026-08-10 13:18:23 UTC
+Generated: 2026-08-10 13:24:37 UTC
 
 This folder follows the planned PLOS ONE structure: one readable supplementary PDF plus the minimum machine-readable data files needed to verify the main conclusions.
 

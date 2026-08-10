@@ -16,7 +16,7 @@
       "datePublished": "2026-08-02",
       "license": {"@id": "https://spdx.org/licenses/GPL-3.0-only.html"},
       "codeRepository": "https://github.com/Jeerryyoung/SQRCD_EQF",
-      "identifier": "https://doi.org/10.5281/zenodo.21694013",
+      "identifier": "https://doi.org/10.5281/zenodo.21873862",
       "subjectOf": {"@id": "https://osf.io/n6gjy/"},
       "author": {"@id": "https://orcid.org/0000-0001-7145-1122"}
     },
