@@ -1,0 +1,751 @@
+﻿formula_id,item_id,domain,assessor_A_rating,assessor_B_rating,agreement,disagreement_type
+F000,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID05,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID06,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID07,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID08,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F000,ID10,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F000,PC01,Preparation chemistry,qualified,qualified,TRUE,exact agreement
+F000,PC02,Preparation chemistry,partially qualified,partially qualified,TRUE,exact agreement
+F000,PC03,Preparation chemistry,qualified,qualified,TRUE,exact agreement
+F000,PC04,Preparation chemistry,qualified,qualified,TRUE,exact agreement
+F000,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F000,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F000,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F000,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F000,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F000,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F000,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F000,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F000,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F000,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F000,TP02,Target provenance,partially qualified,partially qualified,TRUE,exact agreement
+F000,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F000,TP04,Target provenance,partially qualified,partially qualified,TRUE,exact agreement
+F000,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F000,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F000,TP07,Target provenance,qualified,qualified,TRUE,exact agreement
+F000,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F000,HC01,Human disease context,qualified,qualified,TRUE,exact agreement
+F000,HC02,Human disease context,qualified,qualified,TRUE,exact agreement
+F000,HC03,Human disease context,qualified,qualified,TRUE,exact agreement
+F000,HC04,Human disease context,qualified,qualified,TRUE,exact agreement
+F000,HC05,Human disease context,qualified,qualified,TRUE,exact agreement
+F000,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F000,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F000,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F000,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F000,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F000,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F000,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F000,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F000,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F000,PE04,Formula perturbation and task identifiability,partially qualified,qualified,FALSE,other state threshold
+F000,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F000,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F000,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F000,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F001,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F001,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F001,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F001,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F001,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F001,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F001,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F001,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F001,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F001,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F001,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F001,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F001,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F001,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F001,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F001,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F001,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F001,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F001,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F001,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F001,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F001,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F001,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F001,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F001,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F001,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F001,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F001,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F001,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F001,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F001,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F001,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F001,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F001,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F002,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F002,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F002,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F002,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F002,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F002,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F002,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F002,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F002,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F002,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F002,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F002,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F002,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F002,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F002,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F002,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F002,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F002,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F002,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F002,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F002,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F002,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F002,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F002,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F002,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F002,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F002,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F002,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F002,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F002,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F002,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F002,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F002,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F002,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F003,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F003,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F003,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F003,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F003,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F003,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F003,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F003,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F003,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F003,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F003,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F003,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F003,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F003,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F003,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F003,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F003,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F003,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F003,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F003,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F003,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F003,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F003,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F003,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F003,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F003,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F003,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F003,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F003,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F003,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F003,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F003,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F003,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F003,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F004,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F004,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F004,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F004,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F004,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F004,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F004,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F004,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F004,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F004,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F004,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F004,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F004,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F004,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F004,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F004,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F004,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F004,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F004,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F004,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F004,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F004,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F004,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F004,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F004,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F004,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F004,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F004,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F004,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F004,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F004,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F004,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F004,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F004,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F005,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F005,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F005,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F005,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F005,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F005,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F005,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F005,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F005,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F005,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F005,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F005,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F005,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F005,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F005,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F005,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F005,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F005,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F005,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F005,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F005,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F005,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F005,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F005,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F005,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F005,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F005,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F005,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F005,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F005,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F005,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F005,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F005,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F005,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F007,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F007,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F007,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F007,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F007,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F007,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F007,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F007,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F007,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F007,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F007,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F007,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F007,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F007,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F007,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F007,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F007,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F007,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F007,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F007,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F007,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F007,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F007,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F007,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F007,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F007,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F007,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F007,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F007,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F007,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F007,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F007,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F007,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F007,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F009,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F009,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F009,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F009,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F009,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F009,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F009,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F009,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F009,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F009,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F009,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F009,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F009,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F009,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F009,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F009,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F009,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F009,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F009,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F009,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F009,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F009,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F009,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F009,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F009,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F009,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F009,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F009,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F009,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F009,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F009,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F009,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F009,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F009,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F010,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F010,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F010,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F010,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F010,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F010,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F010,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F010,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F010,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F010,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F010,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F010,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F010,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F010,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F010,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F010,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F010,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F010,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F010,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F010,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F010,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F010,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F010,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F010,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F010,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F010,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F010,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F010,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F010,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F010,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F010,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F010,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F010,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F010,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F012,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F012,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F012,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F012,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F012,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F012,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F012,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F012,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F012,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F012,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F012,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F012,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F012,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F012,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F012,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F012,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F012,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F012,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F012,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F012,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F012,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F012,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F012,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F012,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F012,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F012,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F012,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F012,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F012,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F012,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F012,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F012,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F012,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F012,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F013,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F013,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F013,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F013,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F013,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F013,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F013,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F013,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F013,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F013,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F013,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F013,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F013,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F013,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F013,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F013,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F013,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F013,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F013,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F013,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F013,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F013,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F013,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F013,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F013,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F013,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F013,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F013,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F013,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F013,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F013,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F013,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F013,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F013,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F015,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F015,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F015,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F015,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F015,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F015,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F015,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F015,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F015,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F015,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F015,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F015,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F015,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F015,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F015,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F015,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F015,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F015,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F015,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F015,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F015,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F015,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F015,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F015,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F015,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F015,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F015,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F015,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F015,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F015,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F015,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F015,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F015,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F015,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F018,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F018,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F018,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F018,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F018,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F018,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F018,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F018,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F018,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F018,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F018,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F018,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F018,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F018,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F018,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F018,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F018,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F018,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F018,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F018,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F018,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F018,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F018,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F018,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F018,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F018,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F018,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F018,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F018,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F018,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F018,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F018,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F018,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F018,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F019,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F019,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F019,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F019,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F019,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F019,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F019,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F019,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F019,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F019,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F019,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F019,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F019,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F019,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F019,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F019,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F019,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F019,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F019,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F019,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F019,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F019,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F019,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F019,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F019,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F019,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F019,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F019,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F019,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F019,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F019,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F019,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F019,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F019,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F020,ID01,Formula identity,qualified,qualified,TRUE,exact agreement
+F020,ID02,Formula identity,qualified,qualified,TRUE,exact agreement
+F020,ID03,Formula identity,qualified,qualified,TRUE,exact agreement
+F020,ID04,Formula identity,qualified,qualified,TRUE,exact agreement
+F020,ID05,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F020,ID06,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F020,ID07,Formula identity,partially qualified,partially qualified,TRUE,exact agreement
+F020,ID08,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F020,ID09,Formula identity,qualified,qualified,TRUE,exact agreement
+F020,ID10,Formula identity,not estimable,not estimable,TRUE,exact agreement
+F020,PC01,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC02,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC03,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC04,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC05,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC06,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,PC07,Preparation chemistry,not estimable,not estimable,TRUE,exact agreement
+F020,CH01,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F020,CH02,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F020,CH03,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F020,CH04,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F020,CH05,Chemical reconstruction,partially qualified,partially qualified,TRUE,exact agreement
+F020,CH06,Chemical reconstruction,qualified,qualified,TRUE,exact agreement
+F020,TP01,Target provenance,qualified,qualified,TRUE,exact agreement
+F020,TP02,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP03,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP04,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP05,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP06,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP07,Target provenance,not estimable,not estimable,TRUE,exact agreement
+F020,TP08,Target provenance,qualified,qualified,TRUE,exact agreement
+F020,HC01,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,HC02,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,HC03,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,HC04,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,HC05,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,HC06,Human disease context,not estimable,not estimable,TRUE,exact agreement
+F020,GE01,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F020,GE02,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F020,GE03,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F020,GE04,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F020,GE05,Human genetics,not estimable,not estimable,TRUE,exact agreement
+F020,PE01,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F020,PE02,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F020,PE03,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F020,PE04,Formula perturbation and task identifiability,not estimable,not estimable,TRUE,exact agreement
+F020,SE01,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F020,SE02,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F020,SE03,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
+F020,SE04,Structural eligibility,stopped,not estimable,FALSE,stopped versus not estimable
