@@ -1,6 +1,6 @@
 # SQRCD Evidence Qualification Framework
 
-This repository contains the public computational materials for the Evidence Qualification Framework (EQF) study. EQF evaluates whether evidence assembled for a traditional medicine formula is sufficiently specified for formula-level mechanistic interpretation. SQRCD is the case study, and fourteen independently specified formulae form a cross-formula portability stress test.
+This repository contains the public computational materials for the Evidence Qualification Framework (EQF) study. EQF evaluates whether evidence assembled for a traditional medicine formula is sufficiently specified for formula-level mechanistic interpretation. SQRCD is the case study, and fourteen independently specified formulae form a cross-formula portability benchmark. The manuscript is currently unpublished; this repository is a journal-independent code, data-product and reproducibility archive.
 
 ## Linked research records
 
@@ -8,7 +8,7 @@ This repository contains the public computational materials for the Evidence Qua
 - Versioned research archive: [Zenodo DOI 10.5281/zenodo.21873862](https://doi.org/10.5281/zenodo.21873862)
 - Public code repository: [Jeerryyoung/SQRCD_EQF](https://github.com/Jeerryyoung/SQRCD_EQF)
 
-The three services have different roles. OSF preserves the registered analysis intent and amendments; GitHub provides version-controlled code and lightweight derived outputs; Zenodo archives the exact immutable release cited by DOI. A submission should cite a Git tag and the matching Zenodo version DOI, not a moving branch alone.
+The three services have different roles. OSF preserves the registered analysis intent and amendments; GitHub provides version-controlled code and lightweight derived outputs; Zenodo archives immutable research snapshots cited by DOI. Future manuscript versions should cite a Git tag and the matching Zenodo version DOI, not a moving branch alone.
 
 ## Public contents
 
@@ -17,7 +17,7 @@ The three services have different roles. OSF preserves the registered analysis i
 - `scripts/`: case-study, sensitivity and evidence-state reproducibility code.
 - `results/`: de-identified aggregate outputs used in the manuscript and figures.
 - `figures/`: final figure images and their directly corresponding summary tables.
-- `plos_one_submission/`: compact PLOS ONE supporting-information upload package, including the readable supplementary PDF, core machine-readable outputs ZIP, de-identified paired assessor ratings CSV, and data/code manifest.
+- `journal_neutral_release/`: compact journal-independent release package, including the readable supplementary PDF, core machine-readable outputs ZIP, de-identified paired assessor ratings CSV, and data/code manifest.
 - `docs/`: data-access, archive-linkage and release instructions.
 - `provenance/`: release checksums and provenance metadata.
 
@@ -43,7 +43,7 @@ python -m pip install -r requirements.txt
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. At submission, replace any provisional software version with the final Git tag and cite the matching Zenodo version DOI.
+Use the metadata in `CITATION.cff`. For any future manuscript version, replace provisional software/archive identifiers with the final Git tag and matching Zenodo version DOI.
 
 ## License
 

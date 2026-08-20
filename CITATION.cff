@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this cross-formula Evidence Qualification Framework topology benchmark, please cite the associated article and archived release."
+message: "If you use this cross-formula Evidence Qualification Framework topology benchmark, please cite the archived release."
 title: "SQRCD Evidence Qualification Framework: cross-formula topology benchmark"
 type: software
-version: 7.0.0
+version: 7.1.0
 authors:
   - family-names: Yang
     given-names: Junyi
@@ -10,4 +10,4 @@ authors:
 repository-code: "https://github.com/Jeerryyoung/SQRCD_EQF"
 doi: "10.5281/zenodo.21873862"
 license: GPL-3.0-only
-date-released: 2026-08-02
+date-released: 2026-08-20
